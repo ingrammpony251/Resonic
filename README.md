@@ -206,4 +206,4 @@ Resonic is offered as a **full free version** with all features and updates incl
 Unlock the full potential of your audio experience with Resonic. **Download now for free and start enjoying your music today!**
 
 ---
-**Last updated:** 2026-11-11 22:28:17 UTC
+**Last updated:** 2026-11-12 03:35:47 UTC
